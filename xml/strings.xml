@@ -195,7 +195,7 @@ Opening secure channel…"</string>
     <string name="invite_redemption_message_prompt">Activation code:</string>
     <string name="invite_redemption_activate_button_text">ACTIVATE</string>
     <string name="invite_redemption_activate_failed">Activation code validation failed.</string>
-    <string name="headphones_recommended">[ Headphones recommended ]</string>
+    <string name="headphones_recommended">[ Zalecane słuchawki ]</string>
     <string name="credentials_problem_must_quit">This application requires authentication permissions but you have denied them. It must quit.</string>
     <string name="portal_form_title">NEW PORTAL</string>
     <string name="portal_form_edit_location">CONFIRM LOCATION:</string>
