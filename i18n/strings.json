@@ -328,7 +328,7 @@
 "Server unsuccessful.":{class:java.lang.String,value:"Błąd serwera."},
 "XM object not available.":{class:java.lang.String,value:"Obiekt niedostępny."},
 "Unable to use.":{class:java.lang.String,value:"Nie można użyć."},
-"Fill Resonator slots before upgrading.":{class:java.lang.String,value:"Zainstaluj wszystkie rezonatory przed aktualizacją."},
+"Fill Resonator slots before upgrading.":{class:java.lang.String,value:"Uzupełnij pozostałe rezonatory, aby móc ulepszyć."},
 "Action failed.":{class:java.lang.String,value:"Akcja nieudana."},
 "Portal is invalid.":{class:java.lang.String,value:"Portal niedostępny."},
 "Not an upgrade.":{class:java.lang.String,value:"Nie można aktualizować"},
@@ -528,7 +528,7 @@
 "Mod that increases hacking capacity of a Portal.":{class:java.lang.String,value:"Ulepszenie zwiększające ilość dostępnych hacków."},
 "Portal Key":{class:java.lang.String,value:"Klucz"},
 "Power Cube":{class:java.lang.String,value:"Pudełko"},
-"Store of XM which can be used to recharge Scanner.":{class:java.lang.String,value:"Pojemnik z materią egoztyczną. Używany do ładowania XMP w skanerze."},
+"Store of XM which can be used to recharge Scanner.":{class:java.lang.String,value:"Pojemnik skondensowanej energii. Użycie dodaje energii niszcząc bezpowrotnie pojemnik."},
 "Portal Shield":{class:java.lang.String,value:"Tarcza"},
 "Mod which shields Portal from attacks.":{class:java.lang.String,value:"Ulepszenie zmniejszające obrażenia doznawane przez portal."},
 "Turret":{class:java.lang.String,value:"Działko"},
@@ -553,4 +553,5 @@
 "DEPLOY: FORCE AMP":{class:java.lang.String,value:"WZMOCNIJ ATAK"},
 "DEPLOY: TURRET":{class:java.lang.String,value:"ZAINSTALUJ DZIAŁKO"},
 "Range":{class:java.lang.String,value:"Zasięg połączeń"},
+"[secure]":{class:java.lang.String,value:"[poufne]"},
 }
